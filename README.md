@@ -31,7 +31,7 @@
 - ICM Help Session
 
 ## Inspirational Projects
-- [Help contribute to this wiki!](https://github.com/ITPNYU/ICM-2016/wiki/Projects)
+- [Help contribute to this wiki!](https://github.com/ITPNYU/ICM-2016/wiki/Inspiration)
 
 ## Resources
 - [p5.js reference](http://p5js.org/reference)
@@ -48,7 +48,7 @@
   * What is programming?
   * How can I apply programming to _____________?
   * As a ____________, why would I want or need to write software?
-  * [Example projects].
+  * [Example projects](https://github.com/ITPNYU/ICM-2016/wiki/Inspiration).
 * Programming language discussion
   * General discussion of programming languages
   * History of creative coding frameworks
