@@ -128,7 +128,7 @@
   * `length` property
 * An array of objects! [video tutorial 6.3](https://www.youtube.com/watch?v=pGkSHeEZLMU&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=22)
 * Constructor function! [video tutorial 6.4](https://www.youtube.com/watch?v=F3GeM_KrGjI&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=23)
-* Adding and deleting from an array, `push()` and `splice()` [video tutorial. 6.5]
+* Adding and deleting from an array, `push()` and `splice()` [video tutorial. 6.5](https://www.youtube.com/watch?v=EyG_2AdHlzY&index=24&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 * Multiple JS files [video tutorial 6.6](https://www.youtube.com/watch?v=Yk18ZKvXBj4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=25)
 * Clicking on objects [video tutorial 6.7](https://www.youtube.com/watch?v=DEHsr4XicN8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=26)
 * Checking objects intersecting with other objects [video tutorial 6.9](https://www.youtube.com/watch?v=uAfw-ko3kB8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=28), [video tutorial 6.10](https://www.youtube.com/watch?v=GY-c2HO2liA&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=29)
