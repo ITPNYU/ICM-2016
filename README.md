@@ -26,6 +26,11 @@
 - [Make: Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing](http://amzn.to/1PmztVt) is probably your best bet for now if you are looking for a book.
 - If you are interested in some supplemental reading on HTML and CSS, The [HTML & CSS book](http://www.htmlandcssbook.com/) is a nice one.
 
+## Example Code
+- [Getting Started with p5.js code](https://github.com/lmccart/gswp5.js-code)
+- [Learning Processing code ported to p5.js](https://github.com/shiffman/LearningProcessing-p5.js)
+- [Video lesson accompanying code](https://github.com/CodingRainbow/Rainbow-Code/tree/master/p5.js)
+
 ## Extra Help
 - [Research Resident Office Hours](http://itp.nyu.edu/residents/contact-the-residents/)
 - ICM Help Session
