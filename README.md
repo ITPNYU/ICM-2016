@@ -10,11 +10,17 @@
 * [office hours, scheduling, and contact info](https://github.com/ITPNYU/ICM-2016/blob/master/sections.md)
 
 ## Homework Wikis
-- TBA
+- Mimi, Tuesday, 12:10-2:40: [Homework](https://github.com/ITPNYU/ICM-2016/wiki/Homework-Mimi-Tuesday)
+- Shiffman, Thursday, 9:00-11:30: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shiffman-Thursday-1)
+- Allison, Thursday, 12:10-2:40: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Allison-Thursday-1)
+- Shawn, Thursday, 12:10-2:40: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shawn-Thursday)
+- Dano, Thursday, 3:20-5:50: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Dano-Thursday)
+- Allison, Thursday, 3:20-5:50: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Allison-Thursday-2)
+- Shiffman, Thursday, 3:20-5:50: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shiffman-Thursday-2)
 
 ## Videos
 - [Kadenze course](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info)
-- [Shiffman YouTube playlist](https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=14)
+- [Shiffman YouTube playlist](https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=14). The videos on YouTube display skippable ads.  If you would like downloadable, non-ad versions of the videos, please contact Dan.
 
 ## Books
 - [Make: Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing](http://amzn.to/1PmztVt) is probably your best bet for now if you are looking for a book.
@@ -46,7 +52,7 @@
 * Programming language discussion
   * General discussion of programming languages
   * History of creative coding frameworks
-      * Processing and p5.js (and what's processing.js?): [What is p5.js video]
+      * Processing and p5.js (and what's processing.js?): [What is p5.js video](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=1)
       * openframeworks, cinder
       * max/msp dataflow programming
       * How does arduino fit in?
@@ -62,13 +68,11 @@
   * [p5.js working group mailing list](http://groups.google.com/forum/#!forum/p5xjs-working-group)
 * Getting started, your first program
   * [Download Examples]
-  * Drawing with numbers: [video tutorial]
-  * Shape and color functions: [video tutorial]
+  * Drawing with numbers: [video tutorial](https://www.youtube.com/watch?v=D1ELEeIs0j8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=2)
+  * Shape and color functions: [video tutorial](https://www.youtube.com/watch?v=9mucjcrhFcM&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=3)
   * `setup()` and `draw()`
-  * Downloading p5.js
-   * Start by [downloading the p5.js editor](http://p5js.org/download/#editor).
+  * TBA - Info about the p5.js web editor
   * [p5.js reference](http://p5js.org/reference)
-* [Uploading your sketch]
 * <a id="optional-1">Optional viewing / reading:</a>
   * Casey Reas [Eyeo 2012 talk] on Chance Operations
   * [Introductory p5.js videos]
@@ -76,76 +80,70 @@
   * [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/), Vannevar Bush
   * [Long Live the Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf), Tim Berners-Lee
 
-### 2 -- [Animation]
+### 2 -- Animation
 - Program flow (what's a function?)
   - Setup, draw, and other events
   - Variation: mouseX and mouseY
-  - [video tutorial]
+  - [video tutorial](https://www.youtube.com/watch?v=RnS0YNuLfQQ&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=5)
 - More about variables
-  - make your own variables (numbers and strings), [video tutorial]
-  - JS objects (variables inside variables), [video tutorial]
-- [random()](http://p5js.org/reference/#/p5/random), [video tutorial]
-- [map()](http://p5js.org/reference/#/p5/map), [video tutorial]
-- [Simple loading and displaying image]
-- [Download all examples]
+  - make your own variables (numbers and strings), [video tutorial](https://www.youtube.com/watch?v=Bn_B3T_Vbxs&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=6)
+  - JS objects (variables inside variables), [video tutorial](https://www.youtube.com/watch?v=-e5h4IGKZRY&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=7)
+- [random()](http://p5js.org/reference/#/p5/random), [video tutorial](https://www.youtube.com/watch?v=nfmV2kuQKwA&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=9)
+- [map()](http://p5js.org/reference/#/p5/map), [video tutorial](https://www.youtube.com/watch?v=nicMAoW6u1g&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=8)
 
-
-### 3 -- [Interaction]
+### 3 -- Interaction
 - Conditional Statements
     - Boolean expressions
     - if statement
     - relational operators
-    - [video tutorial]
-    - Case study, bouncing ball: [video tutorial]
-    - else, else if, and, or [video tutorial]
-    - buttons, rollovers, switches [video tutorial]
+    - [video tutorial](https://www.youtube.com/watch?v=1Osb_iGDdjk&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=10)
+    - Case study, bouncing ball: [video tutorial](https://www.youtube.com/watch?v=LO3Awjn_gyU&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=11)
+    - else, else if, AND, OR [video tutorial](https://www.youtube.com/watch?v=r2S7j54I68c&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=12)
+    - boolean variables [video tutorial](https://www.youtube.com/watch?v=Rk-_syQluvc&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=13)
+    - buttons, rollovers, switches
 - Loops (while and for)
-    - while and for [video tutorial]
-    - nested loops [video tutorial]
-- [Download all examples]
+    - while and for [video tutorial](https://www.youtube.com/watch?v=cnRD9o6odjk&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=14)
+    - nested loops [video tutorial](https://www.youtube.com/watch?v=1c1_TMdf8b8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=15)
 
-### 4 -- [Functions: the basics]
-- [Download Examples]
+### 4 -- Functions: the basics
 - Calling vs. defining
-- Modularity: [video]
+- Modularity: [video](https://www.youtube.com/watch?v=wRHAitGzBrg&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=16)
 - Arguments and parameters
-- Re-usability: [video]
-- Return types: [video]
+- Re-usability: [video](https://www.youtube.com/watch?v=zkc417YapfE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=17)
+- Return types: [video](https://www.youtube.com/watch?v=qRnUBiTJ66Y&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=18)
 - Recursion
-- Functions inside objects: [video]
+- Functions inside objects: [video](https://www.youtube.com/watch?v=QoFWCPVpWUE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=19)
 - Optional Readings:
   - [Work of Art in the Age of Mechanical Reproduction](http://www.berk-edu.com/VisualStudies/readingList/06b_benjamin-work%20of%20art%20in%20the%20age%20of%20mechanical%20reproduction.pdf), Walter Benjamin
-- Homework: TBA (but something like use a function to draw a design different ways, multiple times.  Make a previous sketch modular.)
 
-### 5 -- [Objects and Arrays]
-* [download examples]
+### 5 -- Objects and Arrays
 * Review object literals:
   * properties - name/value pairs
   * functions inside objects
   * `this` keyword
-* What is an array? [video tutorial 6.1]
-  * declaring, initi
+* What is an array? [video tutorial 6.1](https://www.youtube.com/watch?v=VIQoUghHSxU&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=20)
+  * declaring, initializing
   * numeric indices
-  * arrays and for loops: [video tutorial 6.2]
+  * arrays and for loops: [video tutorial 6.2](https://www.youtube.com/watch?v=RXWO3mFuW-I&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=21)
   * `length` property
-* An array of objects! [video tutorial 6.3]
-* Constructor function! [video tutorial 6.4]
+* An array of objects! [video tutorial 6.3](https://www.youtube.com/watch?v=pGkSHeEZLMU&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=22)
+* Constructor function! [video tutorial 6.4](https://www.youtube.com/watch?v=F3GeM_KrGjI&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=23)
 * Adding and deleting from an array, `push()` and `splice()` [video tutorial. 6.5]
-* Multiple JS files [video tutorial 6.6]
-* Clicking on objects [video tutorial 6.7]
-* Checking objects intersecting with other objects [video tutorial 6.9](), [video tutorial 6.10]
-* loading images for objects [video tutorial 6.11]
+* Multiple JS files [video tutorial 6.6](https://www.youtube.com/watch?v=Yk18ZKvXBj4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=25)
+* Clicking on objects [video tutorial 6.7](https://www.youtube.com/watch?v=DEHsr4XicN8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=26)
+* Checking objects intersecting with other objects [video tutorial 6.9](https://www.youtube.com/watch?v=uAfw-ko3kB8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=28), [video tutorial 6.10](https://www.youtube.com/watch?v=GY-c2HO2liA&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=29)
+* loading images for objects [video tutorial 6.11](https://www.youtube.com/watch?v=FVYGyaxG4To&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=30)
 
-### 6 -- Synthesis -- **October 2nd, 11am - 2pm**
+### 6 -- Synthesis -- **Date/Time TBA**
 - **Meet in the ITP Lounge**
 - **Bring your Arduino**
-- **[All details here]**
+- **[All details here] - TBA**
 - Serial input with a callback workshop
 - "One button experience" exercise
 
-### 7 -- [DOM: events and callback function]
-- [Download all examples]
+### 7 -- DOM: events and callback function
 - Review events -- mousePressed, keyPressed
+* [All video tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
 - [Tutorial: Beyond the Canvas, using p5.dom](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)
 - [Tutorial: Intro to HTML/CSS basics](https://github.com/processing/p5.js/wiki/Intro-to-HTML-and-CSS#css)
 - DOM elements - [p5.dom reference](http://p5js.org/reference/#/libraries/p5.dom)
@@ -157,9 +155,8 @@
 - `style()` -- low key intro to CSS
 - [CSS Reference](http://www.blooberry.com/indexdot/css/propindex/all.htm)
 
-
-### 8 -- [Data]
-- [Download all examples]
+### 8 -- Data
+* [All video tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
 - [Tutorial: loading external data with p5.js](https://github.com/processing/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
 - [Tutorial: more about data and APIs](http://shiffman.github.io/A2Z-F15/week4/notes.html)
 - JSON and APIs (and more on callbacks!)
@@ -169,8 +166,9 @@
   - [Art and the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api), Jer Thorp
   - [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
 
-### 9 -- [Video and Sound]
-- [Download all examples]
+### 9 -- Video and Sound
+* [Video tutorials on video](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig)
+* [Video tutorials on sound](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
 - [p5.sound reference](http://p5js.org/reference/#/libraries/p5.sound)
 - [Video/capture: p5.MediaElement reference](http://p5js.org/reference/#/p5.MediaElement)
 - Sound
@@ -178,8 +176,7 @@
 - Movie playback
 - Video Assignment
 
-### 10 -- [Mobile]
-- [Download all examples]
+### 10 -- Mobile
 - Workflow and process, get a previous sketch running on a device
 - Touch interaction
 - Sensors
@@ -202,8 +199,7 @@
 - Life beyond p5.js
   - Take ICM into the spring semester courses
   - Other JS libraries?
-  - Coding outside the p5 IDE? ([local server tutorial](https://github.com/processing/p5.js/wiki/Local-server))
-  - [local server tutorial](https://github.com/lmccart/itp-creative-js/wiki/SimpleHTTPServer)
+  - Coding outside the p5 IDE? ([local server tutorial](https://github.com/processing/p5.js/wiki/Local-server)), [video tutorial](https://www.youtube.com/watch?v=UCHzlUiDD10)
   - [More HTML/CSS](https://github.com/processing/p5.js/wiki/Intro-to-HTML-and-CSS)
   - What is server side programming for?
   - [Processing](http://processing.org)
@@ -220,7 +216,7 @@
 
 # Policies
 
-##Evaluation
+## Evaluation
 
 Grades will be determined according to the following breakdown:
 * Regular Assignments 40%
