@@ -19,8 +19,8 @@
   * [Email: Shawn.Van.Every@nyu.edu](mailto:Shawn.Van.Every@nyu.edu)
 * Dano
   * [Thursday, 3:20-5:50 Homework](https://github.com/ITPNYU/ICM-2016/wiki/Homework-Dano-Thursday)  
-  - [Office Hours]()
-  - Email:
+  - [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UVBlTFZhOVNCTmF0fGRlZmF1bHR8MmU2NTM4NjJmOTJiNTUwM2M0YTBmMzcyZDM4NjRkNmQ)
+  - Email:dan.osullivan@nyu.edu
 
 # ICM 2016 Schedule
 
