@@ -14,7 +14,7 @@
 - Shiffman, Thursday, 9:00-11:30: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shiffman-Thursday-1)
 - Allison, Thursday, 12:10-2:40: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Allison-Thursday-1)
 - Shawn, Thursday, 12:10-2:40: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shawn-Thursday)
-- Dano, Thursday, 3:20-5:50: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Dano-Thursday)
+- Dano, Thursday, 3:20-5:50: [Homework](https://github.com/ITPNYU/ICM-2016/wiki/Homework-Dano-Thursday)
 - Allison, Thursday, 3:20-5:50: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Allison-Thursday-2)
 - Shiffman, Thursday, 3:20-5:50: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shiffman-Thursday-2)
 
