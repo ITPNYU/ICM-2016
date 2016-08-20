@@ -14,7 +14,7 @@
   * [Office Hours Signup]()
   * Contact:
 * Shawn
-  * [Thursday, 12:10-2:40pm Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shawn-Thursday)
+  * [Thursday, 12:10-2:40pm Homework](https://github.com/ITPNYU/ICM-2016/wiki/Homework-Shawn-Thursday)
   * [Office hours](https://itp.nyu.edu/inwiki/Signup/Shawn)
   * [Email: Shawn.Van.Every@nyu.edu](mailto:Shawn.Van.Every@nyu.edu)
 * Dano
