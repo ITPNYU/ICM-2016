@@ -34,7 +34,7 @@ Bolded are classes that differ from normal ITP weekly schedule.
 3. September 20
 4. September 27
 5. October 4
-6. **Fri, October 7 (Time TBA!)**
+6. **Fri, October 7 (12-3pm)!**
 7. October 11
 8. October 18
 9. October 25
@@ -50,7 +50,7 @@ Bolded are classes that differ from normal ITP weekly schedule.
 3. September 22
 4. September 29
 5. October 6
-6. **Fri, October 7 (Time TBA!)**
+6. **Fri, October 7 (12-3pm)!**
 7. October 13
 8. October 20
 9. October 27
