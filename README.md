@@ -139,9 +139,10 @@
 * Checking objects intersecting with other objects [video tutorial 6.9](https://www.youtube.com/watch?v=uAfw-ko3kB8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=28), [video tutorial 6.10](https://www.youtube.com/watch?v=GY-c2HO2liA&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=29)
 * loading images for objects [video tutorial 6.11](https://www.youtube.com/watch?v=FVYGyaxG4To&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=30)
 
-### 6 -- Synthesis -- **All sections meet Friday, October 7, 12-3pm!**
+### 6 -- Synthesis -- **All sections meet Friday, October 7, 11am-2pm!**
 - **Meet in the ITP Lounge**
 - **Bring your Arduino**
+- **Pizza will be served**
 - **[All details here] - TBA**
 - Serial input with a callback workshop
 - "One button experience" exercise
