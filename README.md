@@ -72,15 +72,13 @@
   * Who makes these things?
   * [p5.js working group mailing list](http://groups.google.com/forum/#!forum/p5xjs-working-group)
 * Getting started, your first program
-  * [Download Examples]
   * Drawing with numbers: [video tutorial](https://www.youtube.com/watch?v=D1ELEeIs0j8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=2)
   * Shape and color functions: [video tutorial](https://www.youtube.com/watch?v=9mucjcrhFcM&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=3)
   * `setup()` and `draw()`
-  * TBA - Info about the p5.js web editor
   * [p5.js reference](http://p5js.org/reference)
 * <a id="optional-1">Optional viewing / reading:</a>
-  * Casey Reas [Eyeo 2012 talk] on Chance Operations
-  * [Introductory p5.js videos]
+  * [Pick an Eyeo Talk that looks interesting](https://vimeo.com/eyeofestival/)
+  * [Introductory p5.js videos](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
   * [FORM+CODE: Introduction and What is Code?](http://formandcode.com)
   * [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/), Vannevar Bush
   * [Long Live the Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf), Tim Berners-Lee
