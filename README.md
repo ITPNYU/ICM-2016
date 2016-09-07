@@ -33,6 +33,7 @@
 
 ## Extra Help
 - [Research Resident Office Hours](http://itp.nyu.edu/residents/contact-the-residents/)
+- [Cassie Office Hours](https://github.com/ITPNYU/ICM-2016/wiki/Cassie-Office-Hours) -- (Cassie is the lead developer of the p5.js web editor so bring your bugs and questions about that!)
 - ICM Help Session
 
 ## Inspirational Projects
