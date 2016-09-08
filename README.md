@@ -4,7 +4,7 @@
 - [Sign up for the ICM google group](https://groups.google.com/a/itp.nyu.edu/group/icm/)
 
 ## p5.js
-- This year we are using [p5.js](http://www.p5js.org/), a JavaScript framework for creative coding.  Stay tuned for a link to the web editor.
+- This year we are using [p5.js](http://www.p5js.org/), a JavaScript framework for creative coding.  Check out the [new web editor for p5.js](https://alpha.editor.p5js.org/).
 
 ## Section specific info
 * [office hours, scheduling, and contact info](https://github.com/ITPNYU/ICM-2016/blob/master/sections.md)
