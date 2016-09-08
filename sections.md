@@ -1,8 +1,8 @@
 # Section info
 * Mimi
   - [Tuesday, 12:10-2:40 Homework](https://github.com/ITPNYU/ICM-2016/wiki/Homework-Mimi-Tuesday)
-  - [Office Hours]()
-  - Email:
+  - [Office Hours](https://itp.nyu.edu/inwiki/Signup/Mimi)
+  - Email: mimi.yin@nyu.edu
 * Shiffman
   * [Thursday, 9:00-11:30 Homework](https://github.com/ITPNYU/ICM-2016/wiki/Homework-Shiffman-Thursday-1)  
   * [Thursday, 3:20-5:50 Homework](https://github.com/ITPNYU/ICM-2016/wiki/Homework-Shiffman-Thursday-2)  
