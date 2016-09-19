@@ -4,19 +4,19 @@
 - [Sign up for the ICM google group](https://groups.google.com/a/itp.nyu.edu/group/icm/)
 
 ## p5.js
-- This year we are using [p5.js](http://www.p5js.org/), a JavaScript framework for creative coding.  Stay tuned for a link to the web editor.
+- This year we are using [p5.js](http://www.p5js.org/), a JavaScript framework for creative coding.  Check out the [new web editor for p5.js](https://alpha.editor.p5js.org/).
 
 ## Section specific info
 * [office hours, scheduling, and contact info](https://github.com/ITPNYU/ICM-2016/blob/master/sections.md)
 
 ## Homework Wikis
 - Mimi, Tuesday, 12:10-2:40: [Homework](https://github.com/ITPNYU/ICM-2016/wiki/Homework-Mimi-Tuesday)
-- Shiffman, Thursday, 9:00-11:30: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shiffman-Thursday-1)
-- Allison, Thursday, 12:10-2:40: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Allison-Thursday-1)
-- Shawn, Thursday, 12:10-2:40: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shawn-Thursday)
-- Dano, Thursday, 3:20-5:50: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Dano-Thursday)
-- Allison, Thursday, 3:20-5:50: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Allison-Thursday-2)
-- Shiffman, Thursday, 3:20-5:50: [Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shiffman-Thursday-2)
+- Shiffman, Thursday, 9:00-11:30: [Homework](https://github.com/ITPNYU/ICM-2016/wiki/Homework-Shiffman-Thursday-1)
+- Allison, Thursday, 12:10-2:40: [Homework](https://github.com/ITPNYU/ICM-2016/wiki/Homework-Allison-Thursday-1)
+- Shawn, Thursday, 12:10-2:40: [Homework](https://github.com/ITPNYU/ICM-2016/wiki/Homework-Shawn-Thursday)
+- Dano, Thursday, 3:20-5:50: [Homework](https://github.com/ITPNYU/ICM-2016/wiki/Homework-Dano-Thursday)
+- Allison, Thursday, 3:20-5:50: [Homework](https://github.com/ITPNYU/ICM-2016/wiki/Homework-Allison-Thursday-2)
+- Shiffman, Thursday, 3:20-5:50: [Homework](https://github.com/ITPNYU/ICM-2016/wiki/Homework-Shiffman-Thursday-2)
 
 ## Videos
 - [Kadenze course](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info)
@@ -33,6 +33,7 @@
 
 ## Extra Help
 - [Research Resident Office Hours](http://itp.nyu.edu/residents/contact-the-residents/)
+- [Cassie Office Hours](https://github.com/ITPNYU/ICM-2016/wiki/Cassie-Office-Hours) -- (Cassie is the lead developer of the p5.js web editor so bring your bugs and questions about that!)
 - ICM Help Session
 
 ## Inspirational Projects
@@ -72,15 +73,13 @@
   * Who makes these things?
   * [p5.js working group mailing list](http://groups.google.com/forum/#!forum/p5xjs-working-group)
 * Getting started, your first program
-  * [Download Examples]
   * Drawing with numbers: [video tutorial](https://www.youtube.com/watch?v=D1ELEeIs0j8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=2)
   * Shape and color functions: [video tutorial](https://www.youtube.com/watch?v=9mucjcrhFcM&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=3)
   * `setup()` and `draw()`
-  * TBA - Info about the p5.js web editor
   * [p5.js reference](http://p5js.org/reference)
 * <a id="optional-1">Optional viewing / reading:</a>
-  * Casey Reas [Eyeo 2012 talk] on Chance Operations
-  * [Introductory p5.js videos]
+  * [Pick an Eyeo Talk that looks interesting](https://vimeo.com/eyeofestival/)
+  * [Introductory p5.js videos](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
   * [FORM+CODE: Introduction and What is Code?](http://formandcode.com)
   * [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/), Vannevar Bush
   * [Long Live the Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf), Tim Berners-Lee
@@ -95,6 +94,8 @@
   - JS objects (variables inside variables), [video tutorial](https://www.youtube.com/watch?v=-e5h4IGKZRY&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=7)
 - [random()](http://p5js.org/reference/#/p5/random), [video tutorial](https://www.youtube.com/watch?v=nfmV2kuQKwA&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=9)
 - [map()](http://p5js.org/reference/#/p5/map), [video tutorial](https://www.youtube.com/watch?v=nicMAoW6u1g&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=8)
+- Transformations
+   - `translate()`, `rotate()`, `scale()`, `push()`, `pop()`
 - Examples
   - [random painting](https://alpha.editor.p5js.org/projects/HJg8jfcT3)
   - [mouse controlled painting](https://alpha.editor.p5js.org/projects/r1JeQqa3)
@@ -157,9 +158,10 @@
 * Checking objects intersecting with other objects [video tutorial 6.9](https://www.youtube.com/watch?v=uAfw-ko3kB8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=28), [video tutorial 6.10](https://www.youtube.com/watch?v=GY-c2HO2liA&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=29)
 * loading images for objects [video tutorial 6.11](https://www.youtube.com/watch?v=FVYGyaxG4To&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=30)
 
-### 6 -- Synthesis -- **Date/Time TBA**
+### 6 -- Synthesis -- **All sections meet Friday, October 7, 11am-2pm!**
 - **Meet in the ITP Lounge**
 - **Bring your Arduino**
+- **Pizza will be served**
 - **[All details here] - TBA**
 - Serial input with a callback workshop
 - "One button experience" exercise

@@ -1,8 +1,8 @@
 # Section info
 * Mimi
   - [Tuesday, 12:10-2:40 Homework](https://github.com/ITPNYU/ICM-2016/wiki/Homework-Mimi-Tuesday)
-  - [Office Hours]()
-  - Email:
+  - [Office Hours](https://itp.nyu.edu/inwiki/Signup/Mimi)
+  - Email: mimi.yin@nyu.edu
 * Shiffman
   * [Thursday, 9:00-11:30 Homework](https://github.com/ITPNYU/ICM-2016/wiki/Homework-Shiffman-Thursday-1)  
   * [Thursday, 3:20-5:50 Homework](https://github.com/ITPNYU/ICM-2016/wiki/Homework-Shiffman-Thursday-2)  
@@ -11,16 +11,16 @@
 * Allison
   * [Thursday, 12:10-2:40 Homework](https://github.com/ITPNYU/ICM-2016/wiki/Homework-Allison-Thursday-1)  
   * [Thursday, 3:20-5:50 Homework](https://github.com/ITPNYU/ICM-2016/wiki/Homework-Allison-Thursday-2)  
-  * [Office Hours Signup]()
-  * Contact:
+  * [Office Hours Signup](https://calendar.google.com/calendar/selfsched?sstoken=UVBPem9ZRFh0NmxvfGRlZmF1bHR8MmNjMGMxNmNiMDNjN2ZmNWQwMmJhMDg3ZTQ3Y2ZmNWI)
+  * E-mail: aparrish@nyu.edu
 * Shawn
-  * [Thursday, 12:10-2:40pm Homework](https://github.com/ITPNYU/ICM-2015/wiki/Homework-Shawn-Thursday)
+  * [Thursday, 12:10-2:40pm Homework](https://github.com/ITPNYU/ICM-2016/wiki/Homework-Shawn-Thursday)
   * [Office hours](https://itp.nyu.edu/inwiki/Signup/Shawn)
   * [Email: Shawn.Van.Every@nyu.edu](mailto:Shawn.Van.Every@nyu.edu)
 * Dano
   * [Thursday, 3:20-5:50 Homework](https://github.com/ITPNYU/ICM-2016/wiki/Homework-Dano-Thursday)  
-  - [Office Hours]()
-  - Email:
+  - [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UVBlTFZhOVNCTmF0fGRlZmF1bHR8MmU2NTM4NjJmOTJiNTUwM2M0YTBmMzcyZDM4NjRkNmQ)
+  - Email: dan.osullivan@nyu.edu
 
 # ICM 2016 Schedule
 
@@ -34,7 +34,7 @@ Bolded are classes that differ from normal ITP weekly schedule.
 3. September 20
 4. September 27
 5. October 4
-6. **Fri, October 7 (Time TBA!)**
+6. **Fri, October 7 (11-2pm) - Pizza!**
 7. October 11
 8. October 18
 9. October 25
@@ -50,7 +50,7 @@ Bolded are classes that differ from normal ITP weekly schedule.
 3. September 22
 4. September 29
 5. October 6
-6. **Fri, October 7 (Time TBA!)**
+6. **Fri, October 7 (11-2pm) - Pizza!**
 7. October 13
 8. October 20
 9. October 27
