@@ -36,7 +36,7 @@
 - [Cassie Office Hours](https://github.com/ITPNYU/ICM-2016/wiki/Cassie-Office-Hours) -- (Cassie is the lead developer of the p5.js web editor so bring your bugs and questions about that!)
 - ICM Help Sessions:
 - Wednesdays 4-6pm in Room 15 w/ Craig & Kat
-- Fridays 1-3pm in Room 20 w/ Cici & Yining
+- Fridays 1:30-2:30pm in Room 20 w/ Cici & Yining
 
 ## Inspirational Projects
 - [Help contribute to this wiki!](https://github.com/ITPNYU/ICM-2016/wiki/Inspiration)
