@@ -52,7 +52,7 @@ Bolded are classes that differ from normal ITP weekly schedule.
 5. October 6
 6. **Fri, October 7 (11-2pm) - Pizza!**
 7. October 13
-8. October 20
+8. October 20 **Allison's sections ONLY: Both sections will be meeting on October 21st this week (3:20pm, Meeting Room)**
 9. October 27
 10. November 3
 11. November 10
