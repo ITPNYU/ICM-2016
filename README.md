@@ -172,9 +172,9 @@
 - **Meet in the ITP Lounge**
 - **Bring your Arduino**
 - **Pizza will be served**
-- **[All details here] - TBA**
+- **[All details here](https://github.com/ITPNYU/ICM-2016/wiki/Synthesis)
 - Serial input with a callback workshop
-- "One button experience" exercise
+- "Physical Variable"
 
 ### 7 -- DOM: events and callback function
 - Review events -- mousePressed, keyPressed
