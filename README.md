@@ -155,18 +155,28 @@
   * properties - name/value pairs
   * functions inside objects
   * `this` keyword
+* Constructor function! [video tutorial 6.4](https://www.youtube.com/watch?v=F3GeM_KrGjI&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=23)
+  * [Two Gravity Ball Objects](http://alpha.editor.p5js.org/projects/SyNeazcR)
 * What is an array? [video tutorial 6.1](https://www.youtube.com/watch?v=VIQoUghHSxU&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=20)
   * declaring, initializing
   * numeric indices
+  * [A Snake Following the Mouse](http://alpha.editor.p5js.org/projects/Sy1ECGcA)
   * arrays and for loops: [video tutorial 6.2](https://www.youtube.com/watch?v=RXWO3mFuW-I&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=21)
   * `length` property
 * An array of objects! [video tutorial 6.3](https://www.youtube.com/watch?v=pGkSHeEZLMU&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=22)
-* Constructor function! [video tutorial 6.4](https://www.youtube.com/watch?v=F3GeM_KrGjI&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=23)
+  * [Interactive Stripes](http://alpha.editor.p5js.org/projects/SJRI1mqC)
 * Adding and deleting from an array, `push()` and `splice()` [video tutorial. 6.5](https://www.youtube.com/watch?v=EyG_2AdHlzY&index=24&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+  * [MousePressed Adding New Gravity Ball Objects](http://alpha.editor.p5js.org/projects/SJysg7c0)
 * Multiple JS files [video tutorial 6.6](https://www.youtube.com/watch?v=Yk18ZKvXBj4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=25)
 * Clicking on objects [video tutorial 6.7](https://www.youtube.com/watch?v=DEHsr4XicN8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=26)
+  * [An Array of Buttons](http://alpha.editor.p5js.org/projects/ByLFGX5R)
 * Checking objects intersecting with other objects [video tutorial 6.9](https://www.youtube.com/watch?v=uAfw-ko3kB8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=28), [video tutorial 6.10](https://www.youtube.com/watch?v=GY-c2HO2liA&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=29)
+   * [Checking Objects Intersection](http://alpha.editor.p5js.org/projects/BJEYSU90)
 * loading images for objects [video tutorial 6.11](https://www.youtube.com/watch?v=FVYGyaxG4To&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=30)
+  * [MousePressed Adding New Images](http://alpha.editor.p5js.org/projects/HJvzCr90)
+* [Optional quiz to test your knowledge](https://itpnyu.github.io/ICM-Quizzes/week5-objects-arrays/)
+
+
 
 ### 6 -- Synthesis -- **All sections meet Friday, October 7, 11am-2pm!**
 - **Meet in the ITP Lounge**
