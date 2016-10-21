@@ -182,7 +182,7 @@
 - **Meet in the ITP Lounge**
 - **Bring your Arduino**
 - **Pizza will be served**
-- **[All details here](https://github.com/ITPNYU/ICM-2016/wiki/Synthesis)
+- **[All details here](https://github.com/ITPNYU/ICM-2016/wiki/Synthesis)**
 - Serial input with a callback workshop
 - "Physical Variable"
 
@@ -225,8 +225,11 @@
 - Workflow and process, get a previous sketch running on a device
 - Touch interaction
 - Sensors
+- Remote debugging:
+  - https://developers.google.com/web/tools/chrome-devtools/remote-debugging/?hl=en
+  - http://moduscreate.com/enable-remote-web-inspector-in-ios-6/
+  - https://jsconsole.com/
 - [More mobile examples from Jia](https://github.com/OhJia/p5MobileWebExamples)
-- [p5 mobile workflows by Jia](https://github.com/OhJia/p5Mobile/wiki/Workflows)
 - [Using the viewport meta tag to control layout on mobile browsers](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
 - [Hammer.js](http://hammerjs.github.io/)
 - Homework: Prepare a final project proposal.  See you section's wiki.
