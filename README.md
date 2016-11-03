@@ -242,11 +242,9 @@
   - [Swipe force](http://alpha.editor.p5js.org/projects/rkOj4bueg)
   - [Pinch and rotate](http://alpha.editor.p5js.org/projects/SJpBDW_gg)
 - Remote debugging:
-  - https://developers.google.com/web/tools/chrome-devtools/remote-debugging/?hl=en
-  - http://moduscreate.com/enable-remote-web-inspector-in-ios-6/
-  - https://jsconsole.com/
-
-
+  - [Android remote debugging](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/?hl=en)
+  - [iOS remote debugging](https://developer.apple.com/library/content/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/GettingStarted/GettingStarted.html)
+  - [Generic remote debugging](https://jsconsole.com/)
 - [Using the viewport meta tag to control layout on mobile browsers](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
 - Homework: Prepare a final project proposal.  See you section's wiki.
 
