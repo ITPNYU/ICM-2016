@@ -233,7 +233,7 @@
   - [Device Shaken 1](http://alpha.editor.p5js.org/projects/rkmqU2Jee)
   - [Device Shaken 2](http://alpha.editor.p5js.org/projects/rJWwujwxg)
 - Sensors
-  - [Acceleromter (Gravity)(http://alpha.editor.p5js.org/projects/ByDPwh1gl)
+  - [Acceleromter (Gravity)](http://alpha.editor.p5js.org/projects/ByDPwh1gl)
   - [Accelerometer (3D)](http://alpha.editor.p5js.org/projects/HJgLdnyel)
   - [Geolocation 1](http://alpha.editor.p5js.org/projects/SJ4Lth1xe)
   - [Geolocation 2](http://alpha.editor.p5js.org/projects/HkZTtnJxg)
