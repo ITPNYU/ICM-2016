@@ -225,14 +225,29 @@
 ### 10 -- Mobile
 - Workflow and process, get a previous sketch running on a device
 - Touch interaction
+  - [Single Touch](http://alpha.editor.p5js.org/projects/SJJ1E2Jlx)
+  - [Multi Touch](http://alpha.editor.p5js.org/projects/HkDY43yxl)
+- Events
+  - [Device Moved](http://alpha.editor.p5js.org/projects/SJdJr3Jxx)
+  - [Device Turned](http://alpha.editor.p5js.org/projects/ryMwSnyxx)
+  - [Device Shaken 1](http://alpha.editor.p5js.org/projects/rkmqU2Jee)
+  - [Device Shaken 2](http://alpha.editor.p5js.org/projects/rJWwujwxg)
 - Sensors
+  - [Acceleromter (Gravity)(http://alpha.editor.p5js.org/projects/ByDPwh1gl)
+  - [Accelerometer (3D)](http://alpha.editor.p5js.org/projects/HJgLdnyel)
+  - [Geolocation 1](http://alpha.editor.p5js.org/projects/SJ4Lth1xe)
+  - [Geolocation 2](http://alpha.editor.p5js.org/projects/HkZTtnJxg)
+- [Hammer.js](http://hammerjs.github.io/)
+  - [Swipe events](http://alpha.editor.p5js.org/projects/HyEDRsPel)
+  - [Swipe force](http://alpha.editor.p5js.org/projects/rkOj4bueg)
+  - [Pinch and rotate](http://alpha.editor.p5js.org/projects/SJpBDW_gg)
 - Remote debugging:
   - https://developers.google.com/web/tools/chrome-devtools/remote-debugging/?hl=en
   - http://moduscreate.com/enable-remote-web-inspector-in-ios-6/
   - https://jsconsole.com/
-- [More mobile examples from Jia](https://github.com/OhJia/p5MobileWebExamples)
+
+
 - [Using the viewport meta tag to control layout on mobile browsers](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
-- [Hammer.js](http://hammerjs.github.io/)
 - Homework: Prepare a final project proposal.  See you section's wiki.
 
 ### 11 -- Other Topics + Final Project Proposals
