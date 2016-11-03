@@ -235,8 +235,8 @@
 - Sensors
   - [Rotation (Gravity)](http://alpha.editor.p5js.org/projects/Hylv2b_xl)
   - [Acceleration (3D)](http://alpha.editor.p5js.org/projects/BJxoCbdxx)
-  - [Geolocation 1: lookup lat lon](http://alpha.editor.p5js.org/projects/HkQ8kMdee)
-  - [Geolocation 2: track lat lon](http://alpha.editor.p5js.org/projects/SyfolGuex)
+  - [Geolocation 1: lookup lat lon](https://alpha.editor.p5js.org/projects/HkQ8kMdee)
+  - [Geolocation 2: track lat lon](https://alpha.editor.p5js.org/projects/SyfolGuex)
 - [Hammer.js](http://hammerjs.github.io/)
   - [Swipe events](http://alpha.editor.p5js.org/projects/HyEDRsPel)
   - [Swipe force](http://alpha.editor.p5js.org/projects/rkOj4bueg)
