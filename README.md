@@ -264,7 +264,9 @@
   - Coding outside the p5 IDE? ([local server tutorial](https://github.com/processing/p5.js/wiki/Local-server)), [video tutorial](https://www.youtube.com/watch?v=UCHzlUiDD10)
   - [More HTML/CSS](https://github.com/processing/p5.js/wiki/Intro-to-HTML-and-CSS)
   - What is server side programming for?
-  - [Server side programming as a service](http://shiffman.net/a2z/firebase/) controlled by p5.js client.
+    - [Database a service](http://shiffman.net/a2z/firebase/) controlled by p5.js client.
+    - [web sockets for real-time communcation](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6b36TzJidYfIYwTFEq3K5qH)
+    - [Basics of node](http://shiffman.net/a2z/server-node/), [making an API in Node](http://shiffman.net/a2z/node-api/)
   - [Processing](http://processing.org)
   - Open source
     - How do artists make and adapt tools for themselves and their communities, like Processing, p5.js, openFrameworks, etc?
